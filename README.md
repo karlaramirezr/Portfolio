@@ -1,4 +1,6 @@
-# Ecologist
+# Karla Ramírez-Ruiz
+Ecologist
+Linkedin | Google Scholar | ResearchGate
 
 ### Education
 Biologist, MSc. 
