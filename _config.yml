@@ -8,9 +8,9 @@ theme:  mmistakes/minimal-mistakes@latest
 #jekyll-theme-cayman
 
 #social:
-  linkedin: https://www.linkedin.com/in/karlarr/
-  Google Scholar: https://scholar.google.com/citations?hl=es&user=DchdX-AAAAAJ&view_op=list_works
-  ResearchGate: https://www.researchgate.net/profile/Karla-Ramirez-Ruiz?ev=prf_overview
-  github: https://github.com/yourusername
+#  linkedin: https://www.linkedin.com/in/karlarr/
+#  Google Scholar: https://scholar.google.com/citations?hl=es&user=DchdX-AAAAAJ&view_op=list_works
+#  ResearchGate: https://www.researchgate.net/profile/Karla-Ramirez-Ruiz?ev=prf_overview
+#  github: https://github.com/yourusername
   # Add others as needed
 
