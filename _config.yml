@@ -3,7 +3,7 @@ logo: /assets/profile.png
 description: Ecologist, MSc.  
 kcramirezruiz@gmail.com
 
-theme:  agency-jekyll-theme
+theme:  jekyll-theme-minimal
 #jekyll-theme-cayman
 
 social:
