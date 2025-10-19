@@ -1,9 +1,8 @@
 title: Karla Ramirez-Ruiz
 logo: /assets/cropped_circle_image.png
-description: Ecologist, MSc.
-#kcramirezruiz@gmail.com
+description: "Ecologist, MSc."
 
-theme:  mmistakes/minimal-mistakes@latest
+theme: mmistakes/minimal-mistakes@latest
 #jekyll-theme-minimal
 #jekyll-theme-cayman
 
