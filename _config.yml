@@ -5,7 +5,7 @@ url: "https://karlaramirezr.github.io"
 baseurl: "/Portfolio"  # Only if your repo is named 'Portfolio'
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Social media icons (optional keys: github, linkedin, researchgate, etc.)
 author:
