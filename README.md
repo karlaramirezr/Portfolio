@@ -1,4 +1,3 @@
-# Karla Ramírez-Ruiz
 Ecologist, MSc. 	
 **Contact:** kcramirezruiz@gmail.com
 
