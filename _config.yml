@@ -1,14 +1,45 @@
-title: Karla Ramirez-Ruiz
-# logo: /assets/cropped_circle_image.png
+title: "Karla Ramirez-Ruiz"
 description: "Ecologist, MSc."
+email: kcramirezruiz@gmail.com
+url: "https://karlaramirezr.github.io"
+baseurl: "/Portfolio"  # Only if your repo is named 'Portfolio'
 
-theme: jekyll-theme-minimal
-#jekyll-theme-cayman
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@latest"
 
-#social:
-#  linkedin: https://www.linkedin.com/in/karlarr/
-#  Google Scholar: https://scholar.google.com/citations?hl=es&user=DchdX-AAAAAJ&view_op=list_works
-#  ResearchGate: https://www.researchgate.net/profile/Karla-Ramirez-Ruiz?ev=prf_overview
-#  github: https://github.com/yourusername
-  # Add others as needed
+# Social media icons (optional keys: github, linkedin, researchgate, etc.)
+author:
+  name: "Karla Ramirez-Ruiz"
+  avatar: "/assets/cropped_circle_image.png"
+  bio: "Ecologist, MSc."
+  location: ""
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/karlarr/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/karlaramirezr"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Karla-Ramirez-Ruiz"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=DchdX-AAAAAJ"
 
+# Enable plugins
+plugins:
+  - jekyll-include-cache
+
+# Optional navigation (see step 4)
+# Uncomment and add pages if needed
+# nav:
+#   - title: "About"
+#     url: /
+#   - title: "Projects"
+#     url: /projects/
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default" # or "dark", "air", etc.
+
+markdown: kramdown
