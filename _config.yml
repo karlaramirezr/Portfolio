@@ -3,7 +3,8 @@ logo: /assets/cropped_circle_image.png
 description: Ecologist, MSc.
 #kcramirezruiz@gmail.com
 
-theme:  jekyll-theme-minimal
+theme:  mmistakes/minimal-mistakes@latest
+#jekyll-theme-minimal
 #jekyll-theme-cayman
 
 #social:
